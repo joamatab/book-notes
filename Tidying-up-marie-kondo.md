@@ -1,4 +1,4 @@
-https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308
+[amazon link](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308)
 
 In this book Marie Kondo explains how to declutter your life and house.
 This bool will teach you how to let go of any unnecessary things that you have around.
