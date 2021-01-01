@@ -1,4 +1,7 @@
-Notes from books and other interesting things that I've read. Enjoy!
+Notes from books and ot alsoher interesting things that I've read. Enjoy!
+
+Contains some book summaries from [Michael Parker](https://github.com/mgp/book-notes).
+Code available on [GitHub](https://github.com/joamatab/book-notes/)
 
 # Highly recommended
 
