@@ -113,16 +113,16 @@ Incomplete notes from books that I haven't yet finished reading.
 
 Notes from things that I've read or watched on the web:
 
-* [Auto Layout Guide](auto-layout-guide.markdown)
-* [Core Data Programming Guide](core-data-programming-guide.markdown)
+* [vimtutor](vimtutor.markdown)
+* [Learn_markdown](Learn_markdown)
+* [learn python](https://github.com/joamatab/practical-python)
+* [programs that I use](https://github.com/joamatab/dotfiles/wiki)
 * [Eric Barker newsletter](eric-barker-newsletter.markdown)
 * [First Round Capital: The Review](first-round-capital-the-review.markdown)
 * [High Scalability](high-scalability-notes.markdown)
 * [Khan Academy finance and capital markets](khan-academy-finance-and-capital-markets.markdown)
 * [Leanpub Manual](leanpub-manual.markdown)
 * [On being an effective tech lead](effective-tech-lead-notes.markdown)
-* [The Swift Programming Language: Language Guide](the-swift-programming-language.markdown)
-* [vimtutor](vimtutor.markdown)
     
     
 # Programming books
@@ -150,6 +150,9 @@ Notes from things that I've read or watched on the web:
 * [Learning Android](learning-android.markdown) by Marko Gargenta
 * [ppk on JavaScript, 1st Edition](ppk-on-javascript.markdown) by Peter-Paul Koch
 * [DOM Scripting](dom-scripting.markdown) by Jeremy Keith
+* [Auto Layout Guide](auto-layout-guide.markdown)
+* [The Swift Programming Language: Language Guide](the-swift-programming-language.markdown)
+* [Core Data Programming Guide](core-data-programming-guide.markdown)
     
 # Other
 
