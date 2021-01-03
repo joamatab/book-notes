@@ -1,4 +1,4 @@
-Notes from books and ot alsoher interesting things that I've read. Enjoy!
+Notes from books and interesting things that I hope you find useful.
 
 Contains some book summaries from [Michael Parker](https://github.com/mgp/book-notes).
 Code available on [GitHub](https://github.com/joamatab/book-notes/)
@@ -125,6 +125,7 @@ Notes from things that I've read or watched on the web:
 
 # Programming books
 
+- [Python_Data_science_handbook_by_Jake_VanderPlas](Python_Data_science_handbook_by_Jake_VanderPlas)
 - [SQLAlchemy 0.7.8 Documentation](sqlalchemy.markdown)
 - [MongoDB: The Definitive Guide](mongodb-the-definitive-guide.markdown) by Kristina Chodorow and Michael Dirolf
 - [Learning Python, 4th Edition](learning-python-4th-edition.markdown) by Mark Lutz
