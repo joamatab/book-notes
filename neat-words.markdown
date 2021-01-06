@@ -17,6 +17,7 @@
 * doyen (n): the most respected or prominent person in given field
 * epistemic (n): relating to knowledge, cognitive
 * equanimity (n): calmness or composure in difficult situations
+* entrepreneur (n): A person who organizes, operates, and assumes the risk for a business venture.
 * ersatz (adj): a poor-quality imitation
 * evince (v): to reveal the presence of
 * expiate (v): to make amends, atone
