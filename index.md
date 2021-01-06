@@ -49,6 +49,7 @@ Code available on [GitHub](https://github.com/joamatab/book-notes/)
 - principles: Life and work, Ray Dalio
 - [Designing Your Life: How to Build a Well-Lived, Joyful Life, Bill Burnet](Designing_Your_Life_How_to_Build_a_Well-Lived_Joyful_Life-Bill_Burnet.md)
 - [What color is your parachute?, Richard Bolles](What_color_is_your_parachute-richard-bolles.md)
+- [The_10_Pillars_Of_Wealth_by_Alex_Becker](The_10_Pillars_Of_Wealth_by_Alex_Becker)
 
 # Incomplete Notes
 
