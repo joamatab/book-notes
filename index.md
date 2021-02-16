@@ -1,7 +1,9 @@
-Notes from books and interesting things that I hope you find useful.
+Sharing notes from books and interesting things that I hope you find useful.
 
-Contains some book summaries from [Michael Parker](https://github.com/mgp/book-notes).
-Code available on [GitHub](https://github.com/joamatab/book-notes/)
+Code available on [GitHub](https://github.com/joamatab/book-notes/) inspired by [Michael Parker](https://github.com/mgp/book-notes).
+
+enjoy!
+Joaquin
 
 # Highly recommended
 
