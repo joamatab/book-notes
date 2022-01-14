@@ -17,10 +17,11 @@ Joaquin
 - [The Subtle Art of Not Giving a Fuck](the-subtle-art-of-not-giving-a-fuck.markdown) by Mark Manson
 - [Rework](rework.markdown) by Jason Fried and David Heinemeier Hansson
 - [How will you measure your life, Clayton M. Christensen](how_will_you_measure_your_life.md)
-- Search inside yourself, Chade-Meng Tan
+- [Search inside yourself](Search-inside-yourself), Chade-Meng Tan
 - [If you are so smart why aren't you happy, raj](if-you-are-so-smart-why-not-happy.md)
 - [Once upon a cow, camilo cruz](once-upon-a-cow-camilo-cruz)
 - [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing, Marie Kondo](Tidying-up-marie-kondo)
+- [[12_rules of life Jordan Peterson](12_rules-of-life.Jordan-Peterson)]
 - Brian Tracy. Focal point
 - Tony Robins. Awaken the giant within.
 - Zig Ziglar. Over the Top: Moving from Survival to Stability, from Stability to Success, from Success to Significance
@@ -52,6 +53,17 @@ Joaquin
 - [Designing Your Life: How to Build a Well-Lived, Joyful Life, Bill Burnet](Designing_Your_Life_How_to_Build_a_Well-Lived_Joyful_Life-Bill_Burnet.md)
 - [What color is your parachute?, Richard Bolles](What_color_is_your_parachute-richard-bolles.md)
 - [The_10_Pillars_Of_Wealth_by_Alex_Becker](The_10_Pillars_Of_Wealth_by_Alex_Becker)
+- [competing with unicorns](competing-with-unicorns)
+- [surrounded by idiots](surrounded-by-idiots)
+- [know can do](know-can-do)! ken blanchard
+- [no hard feelings](no-hard-feelings)
+
+
+
+# Spanish
+
+- [El arte de no amargarse la vida](El-arte-de-no-amargarse-la-vida) by Rafael San Andreau
+- [Las gafas de la felicidad](Las-gafas-de-la-felicidad), Rafael San Andreu
 
 # Incomplete Notes
 
