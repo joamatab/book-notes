@@ -8,15 +8,12 @@ He recommends the cognitive therapy
 
 ## Inspiring stories
 
-The author includes the stories of happy people that live extraordinary lives thanks to their positive/strong mindset
+The author includes the stories of happy people that live extraordinary lives thanks to their positive/strong mindset:
 
-A reporter who takes care of an orphanage in india
-
-A traveler who lives many adventures
-
-A nun who decides to live in a poor village in chile
-
-A successful person who suffers a stroke and losses all his mobility, and decides to write a book by blinking his only good eye: La mariposa y la Escafandra.
+- A reporter who takes care of an orphanage in india
+- A traveler who lives many adventures
+- A nun who decides to live in a poor village in chile
+- A successful person who suffers a stroke and losses all his mobility, and decides to write a book by blinking his only good eye: La mariposa y la Escafandra.
 
 ## The crazy monkey mind
 
@@ -39,7 +36,7 @@ The cognitive therapy model to change behavior consists of getting rid of the ir
 - I cannot take it anymore
 - The world does not work well
 
-Raphel's method of turning irrational beliefs into rational beliefs
+Rafael's method of turning irrational beliefs into rational beliefs
 
 - First, you need to identify unhappy moments and find out the root cause of distress
 - Second, we unmask that logic with opposite arguments
@@ -51,10 +48,10 @@ Many professional players leverage visualizations to prepare their minds to achi
 
 There are 2 main types of visualization
 
-- Full happy life visualization. For example we want to learn to live in solutide so you visualize yourself enjoying your single life
+- Full happy life visualization. For example we want to learn to live in solutide so you visualize yourself enjoying your single life.
 - See your self calm in a stressful situation. If you are worried about anything, like going to the dentist, you can visualize yourself living through tha situation in a calm way.
 
 The full life visualization  
 
 1. Connect with good times. Remember a time where you felt happy and strong (physically and mentally), as you walk on the street you feel great being yourself
-2. Be in harmony with your current life situationk
+2. Be in harmony with your current life situation

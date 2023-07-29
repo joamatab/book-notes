@@ -1,11 +1,8 @@
 # No hard feelings
 
-This book
-
 ## 1. the future is emotional
 
 ## 2. be less passionate about your job, Why taking a chill pill makes you healthier
-
 
 ## 3. motivation. Inspira your self, why you are stuck and how to get moving
 
