@@ -45,7 +45,6 @@ Joaquin
 - Brian Tracy, The power of self-esteem
 - Daniel Goleman: Emotional Intelligence.
 - Daniel Goleman: Social intelligence
-- [Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life), Thomas Erikson](Surrounded-by-idiots.md)
 - [The 5 Love Languages: The Secret to Love that Lasts, Gary Chapman](5-love-languages-gary-chapman.md)
 - The time paradox
 - [Smarter Faster Better: The Transformative Power of Real Productivity, Charles Duhigg](Smarter_Faster_Better-Charles_Duhigg.md)
@@ -57,6 +56,15 @@ Joaquin
 - [surrounded by idiots](surrounded-by-idiots)
 - [know can do](know-can-do)! ken blanchard
 - [no hard feelings](no-hard-feelings)
+
+
+## Highly recommended fiction
+
+- *The Physician* by Noah Gordon  
+- *Alexandros: Child of a Dream* by Valerio Massimo Manfredi  
+- *The Century Trilogy* by Ken Follett  
+- *The Pillars of the Earth* by Ken Follett  
+- *Never* by Ken Follett  
 
 
 # Spanish
