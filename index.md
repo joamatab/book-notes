@@ -22,13 +22,15 @@ Joaquin
 - [Once upon a cow, camilo cruz](once-upon-a-cow-camilo-cruz)
 - [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing, Marie Kondo](Tidying-up-marie-kondo)
 - [[12_rules of life Jordan Peterson](12_rules-of-life.Jordan-Peterson)]
+- [Never Split The Difference](never-split-the-difference.md) by Chris Voss
+- David Rock. Your brain at work
+- [The-hard-thing-about-hard-things](The-hard-thing-about-hard-things) by Ben Horowitz
 - Brian Tracy. Focal point
 - Tony Robins. Awaken the giant within.
 - Zig Ziglar. Over the Top: Moving from Survival to Stability, from Stability to Success, from Success to Significance
 - Napoleon Hill. Think and grow rich.
 - Jack Canfield. The Success principles.
 - John C. Maxwell. How Successful People Think: Change Your Thinking, Change Your Life.
-- David Rock. Your brain at work
 - George Clason. The richest man in Babylon
 - Ken Blanchard. The one minute manager.
 - Robert Cialdini. Influence
@@ -46,7 +48,7 @@ Joaquin
 - Daniel Goleman: Emotional Intelligence.
 - Daniel Goleman: Social intelligence
 - [The 5 Love Languages: The Secret to Love that Lasts, Gary Chapman](5-love-languages-gary-chapman.md)
-- The time paradox
+- The-time-paradox. Zimbargo
 - [Smarter Faster Better: The Transformative Power of Real Productivity, Charles Duhigg](Smarter_Faster_Better-Charles_Duhigg.md)
 - principles: Life and work, Ray Dalio
 - [Designing Your Life: How to Build a Well-Lived, Joyful Life, Bill Burnet](Designing_Your_Life_How_to_Build_a_Well-Lived_Joyful_Life-Bill_Burnet.md)
@@ -102,7 +104,6 @@ Incomplete notes from books that I haven't yet finished reading.
 - [Information Architecture for the World Wide Web](information-architecture.md) by Peter Morville, Louis Rosenfeld
 - [Managing Humans](managing-humans.md) by Michael Lopp
 - [Multipliers](multipliers.md) by Liz Wiseman
-- [Never Split The Difference](never-split-the-difference.md) by Chris Voss
 - [Pragmatic Learning & Thinking](pragmatic-learning-and-thinking.md) by Andy Hunt
 - [Pro Git](pro-git.md) by Scott Chacon
 - [Rocket Surgery Made Easy](rocket-surgery-made-easy.md) by Steve Krug
