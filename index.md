@@ -25,6 +25,7 @@ Joaquin
 - [Never Split The Difference](never-split-the-difference.md) by Chris Voss
 - David Rock. Your brain at work
 - [The-hard-thing-about-hard-things](The-hard-thing-about-hard-things) by Ben Horowitz
+- [Culture](Culture) by Ben Horowitz
 - Brian Tracy. Focal point
 - Tony Robins. Awaken the giant within.
 - Zig Ziglar. Over the Top: Moving from Survival to Stability, from Stability to Success, from Success to Significance
