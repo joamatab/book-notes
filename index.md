@@ -23,10 +23,11 @@ Joaquin
 - [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing, Marie Kondo](Tidying-up-marie-kondo)
 - [[12_rules of life Jordan Peterson](12_rules-of-life.Jordan-Peterson)]
 - [Never Split The Difference](never-split-the-difference.md) by Chris Voss
-- David Rock. Your brain at work
+- David Rock. Your-brain-at-work
 - [The-hard-thing-about-hard-things](The-hard-thing-about-hard-things) by Ben Horowitz
 - [Culture](Culture) by Ben Horowitz
-- Brian Tracy. Focal point
+- [Radical-candor](Radical-candor)
+- Brian Tracy. Focal-point
 - Tony Robins. Awaken the giant within.
 - Zig Ziglar. Over the Top: Moving from Survival to Stability, from Stability to Success, from Success to Significance
 - Napoleon Hill. Think and grow rich.
@@ -64,12 +65,24 @@ Joaquin
 ## Highly recommended fiction
 
 - *The Physician* by Noah Gordon  
-- *Alexandros: Child of a Dream* by Valerio Massimo Manfredi  
+- Stieg Larsson. Millenium.
 - *The Century Trilogy* by Ken Follett  
 - *The Pillars of the Earth* by Ken Follett  
 - *Never* by Ken Follett  
-
-
+- *Alexandros: Child of a Dream* by Valerio Massimo Manfredi  
+- Santiago Posteguillo. All of them.
+    - Escipión
+        - Africanus
+        - Las legiones malditas
+        - La traición de Roma
+    - Trajano
+        - Los asesinos del emperador
+        - Circo Máximo
+        - La legión perdida
+    - Julio Cesar
+        - Roma-soy-yo
+        - Maldita-roma
+        - Los-tres-mundos
 # Spanish
 
 - [El arte de no amargarse la vida](El-arte-de-no-amargarse-la-vida) by Rafael San Andreau
