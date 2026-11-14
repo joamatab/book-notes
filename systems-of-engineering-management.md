@@ -1,0 +1,5 @@
+- teams should be 6 to 8
+- teams can be in different states
+    - falling behind: more backlog every week
+    - treading water:
+    - innovating

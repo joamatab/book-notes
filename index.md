@@ -60,6 +60,8 @@ Joaquin
 - [surrounded by idiots](surrounded-by-idiots)
 - [know can do](know-can-do)! ken blanchard
 - [no hard feelings](no-hard-feelings)
+- an-elegant-puzzle: [systems-of-engineering-management](systems-of-engineering-management)
+- the-great-ceo-within: [the-great-ceo-within](the-great-ceo-within)
 
 
 ## Highly recommended fiction
@@ -101,6 +103,7 @@ Incomplete notes from books that I haven't yet finished reading.
 
 # Haven't read yet
 
+- everything is fucked
 - [Adversaries into Allies](adversaries-into-allies.md) by Bob Burg
 - [An Elegant Puzzle](an-elegant-puzzle.md) by Will Larson
 - [APE: Author, Publisher, Entrepreneur](ape-author-publisher-entrepreneur.md) by Guy Kawasaki
